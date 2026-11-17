@@ -1,0 +1,7 @@
+# Curso SourceGit
+Proyecto de prácticas para aprender Git,
+SourceGit y Git Flow.
+## Versiones
+- 1.1.0: segunda versión.
+
+Objetivo: aprender a gestionar repositorios con SourceGit.
